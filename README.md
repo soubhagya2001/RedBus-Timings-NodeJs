@@ -27,6 +27,7 @@ This project is a web scraper built using Node.js and Puppeteer that extracts bu
 2. Install the required dependencies:
 
    ```bash
+   node init -y
    npm install puppeteer xlsx
 
 ## Usage
