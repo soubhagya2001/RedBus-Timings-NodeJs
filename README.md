@@ -22,7 +22,7 @@ This project is a web scraper built using Node.js and Puppeteer that extracts bu
 
    ```bash
    git clone https://github.com/soubhagya2001/RedBus-Timings-NodeJs.git
-   cd red-bus-scraper
+   cd RedBus-Timings-NodeJs
 
 2. Install the required dependencies:
 
@@ -40,11 +40,10 @@ This project is a web scraper built using Node.js and Puppeteer that extracts bu
 
 ## Example Output 
 The output Excel file contains the following columns:
-
-Name: Name of the bus operator
-Type: Type of the bus
-Start Time: Departure time
-Reach Time: Arrival time
-Duration: Total travel duration
-Rating: Bus rating
-Price: Ticket price
+* Name: Name of the bus operator<br>
+* Type: Type of the bus<br>
+* Start Time: Departure time<br>
+* Reach Time: Arrival time<br>
+* Duration: Total travel duration<br>
+* Rating: Bus rating<br>
+* Price: Ticket price<br>
